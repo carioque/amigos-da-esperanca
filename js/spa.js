@@ -1,4 +1,4 @@
-/* SPA */
+/* Navegação da SPA */
 
 const app = document.getElementById("app");
 
